@@ -53,3 +53,9 @@ aura un sommet.
 Un robot est un objet qui peut tenir un cube. Plusieurs fonctionnalités lui sont propre
 comme créer un cube, détruire un cube, déposer un cube et prendre un cube.
 * **d’un monde :** c’est ce qui nous permet de contenir les objets cubes, la table et le robot
+
+
+
+## Technologie utilisé
+
+Ce projet a été fait entièrement en java pour la partie. Et pour la partie graphique j'ai utilisé la bibliothèque AWT.
