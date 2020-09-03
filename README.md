@@ -15,15 +15,19 @@ comprendre, du genre "prends le grand cube bleu".
 
 Dans notre diagramme de use case notre operateur peut créer un cube, poser un cube, prendre un cube et
 détruire un cube.
-Créer cube : Pour créer un cube, il suffit d’avoir le robot de vide.
-Poser cube : Poser un cube donne 2 possibilités,
--Poser sur la table :
+
+### **Créer cube :** 
+* Pour créer un cube, il suffit d’avoir le robot de vide.
+### **Poser cube :**
+Poser un cube donne 2 possibilités,
+ * **Poser sur la table :**
 Pour poser un cube sur la table, il faut vérifier que notre robot tient un cube et que la table ai
 assez de place pour déposer un cube par-dessus.
--Poser sur un cube :
+ * **Poser sur un cube :** 
 Pour poser un cube sur la table, il faut vérifier que notre robot tient un cube et que le cube
 sur lequel on pose notre cube existe.
-Prendre cube :
-Pour prendre un cube de la table, il faut vérifier que notre robot est vide et que le cube qu’on
+### **Prendre cube :**
+  Pour prendre un cube de la table, il faut vérifier que notre robot est vide et que le cube qu’on
 recherche est présent sur la table.
-Détruire cube : Pour détruire un cube faut vérifier que notre robot tient un cube.
+### **Détruire cube :** 
+  Pour détruire un cube faut vérifier que notre robot tient un cube.
