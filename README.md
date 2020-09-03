@@ -7,6 +7,9 @@ construire des piles de cubes disposées sur une table. Le robot répond aux ord
 qui le pilote, ordres exprimés par le biais de phrases courtes qu'il est capable de
 comprendre, du genre "prends le grand cube bleu".
 
+
+![Démonstration ](demo.gif)
+
 ## Description du diagramme des use-cases
 
 ![image diagramme use case](Use_Case_diagram.png)
